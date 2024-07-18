@@ -9,5 +9,5 @@
 - 📫 How to reach me: **devopsvarun77@gmail.com**
 
 Laanguages and tools: **shellscripting,python,aws,Jenkins,ansible, docker, K8s,Terraform** 
--->
+
 Connect with me:https://www.linkedin.com/in/varun-nalluri-432816a9/
