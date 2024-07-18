@@ -8,7 +8,6 @@
 - 💬 Ask me about **devops and cloud**
 - 📫 How to reach me: **devopsvarun77@gmail.com**
 
-Laanguages and tools
-shellscripting, [python](https://flyclipart.com/thumb2/python-logo-notext-205850.png),  https://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png, https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo-2013-2015.png, 
+Laanguages and tools: **shellscripting,python,aws,Jenkins,ansible, docker, K8s,Terraform** 
 -->
 Connect with me:https://www.linkedin.com/in/varun-nalluri-432816a9/
