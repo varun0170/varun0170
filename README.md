@@ -10,6 +10,6 @@
 
 Laanguages and tools: **shellscripting, python, aws, Jenkins, ansible, docker, K8s, Terraform** 
 
-Achivements: **AWS certified solutions architect associate**
+Achivements: **AWS Certified Solutions Architect Associate**
 
 Connect with me:https://www.linkedin.com/in/varun-nalluri-432816a9/
