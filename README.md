@@ -30,3 +30,7 @@ Achivements: **AWS Certified Solutions Architect Associate**
 <a href="https://www.linkedin.com/in/varun-nalluri-432816a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun nalluri" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">achivements:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="hhttps://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws" width="40" height="40"/> </a>
+</p>
