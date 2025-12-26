@@ -1,33 +1,70 @@
-## Hi👋 I'm Varun Nalluri 
+# Hi, I'm Varun Nalluri 👋  
 
+🚀 DevOps & Cloud Engineer | AWS Certified Solutions Architect  
+🌍 Building scalable, automated, and cost-efficient cloud platforms  
 
-- 🔭 I’m currently working as a ****devops enginner** **
-- 🌱 I’m currently **learning k8s**
-- 👯 I’m looking to collaborate on **DevOps, Cloud and open source projects**
-- 🤔 I’m looking for help with **k8s**  
-- 💬 Ask me about **devops and cloud**
-- 📫 How to reach me: **devopsvarun77@gmail.com**
+---
 
-Achivements: **AWS Certified Solutions Architect Associate**
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am a DevOps Engineer with 8+ years of experience across system engineering, cloud infrastructure, and DevOps automation.  
+Currently based in the UK, I work on cloud migration and automation projects that improve reliability, reduce operational overhead, and support scalable digital platforms.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I specialise in designing and operating cloud-native systems using Infrastructure as Code, CI/CD pipelines, and container orchestration.  
+I am particularly interested in how **cloud, DevOps, and AI** can lower barriers for businesses and enable global-scale innovation.
 
-<a href="https://www.linkedin.com/in/varun-nalluri-432816a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun nalluri" height="30" width="40" /></a>
-</p>
+---
 
+## 🛠️ Core Skills & Technologies
 
+- **Cloud Platforms:** AWS (EC2, VPC, RDS, IAM, S3, CloudWatch)
+- **DevOps & CI/CD:** Jenkins, GitHub Actions, CI/CD Pipelines
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Ansible
+- **Scripting & OS:** Bash, Linux
+- **Monitoring & Reliability:** Logging, metrics, system optimisation
+
+---
+
+## 📌 Featured Projects (Selected Work)
+
+🔹 **Cloud Migration & Automation (In Progress)**  
+Infrastructure automation and CI/CD workflows designed to reduce manual effort and improve deployment reliability.  
+
+🔹 **Infrastructure as Code with Terraform**  
+Reusable Terraform modules for AWS networking, compute, and scalable environments.  
+
+🔹 **Containerised Applications with Kubernetes**  
+Dockerised applications deployed to Kubernetes with best-practice manifests and configurations.  
+
+🔹 **CI/CD Pipeline Implementations**  
+Automated build, test, and deployment pipelines demonstrating DevOps best practices.
+
+_(More detailed READMEs and architecture explanations inside each repository.)_
+
+---
+
+## 📜 Certifications
+
+- 🏅 AWS Certified Solutions Architect – Associate  
+- 🏅 Docker Certification (TestDome)
+
+---
+
+## 🌍 Community & Interests
+
+- Cloud-native architecture & DevOps best practices  
+- Automation, scalability, and cost optimisation  
+- Emerging use-cases of AI in DevOps and infrastructure  
+- Knowledge sharing and continuous improvement  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/varun-nalluri-432816a9  
+- 💻 GitHub: https://github.com/varun0170  
+
+---
+
+⭐ *I believe great technology should be scalable, accessible, and impactful — regardless of location or company size.*
